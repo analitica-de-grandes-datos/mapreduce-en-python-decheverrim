@@ -1,0 +1,10 @@
+business	15945
+car (new)	14896
+car (used)	12976
+domestic appliances	3990
+education	12612
+furniture	14179
+others	18424
+radio/tv	15653
+repairs	11998
+retraining	3447
